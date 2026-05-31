@@ -1,0 +1,1070 @@
+{
+  "years": [
+    {
+      "year": 1900,
+      "era": "20th Century",
+      "decade": "1900s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1901,
+      "era": "20th Century",
+      "decade": "1900s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1902,
+      "era": "20th Century",
+      "decade": "1900s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1903,
+      "era": "20th Century",
+      "decade": "1900s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1904,
+      "era": "20th Century",
+      "decade": "1900s",
+      "century": "XX",
+      "is_leap": true
+    },
+    {
+      "year": 1905,
+      "era": "20th Century",
+      "decade": "1900s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1906,
+      "era": "20th Century",
+      "decade": "1900s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1907,
+      "era": "20th Century",
+      "decade": "1900s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1908,
+      "era": "20th Century",
+      "decade": "1900s",
+      "century": "XX",
+      "is_leap": true
+    },
+    {
+      "year": 1909,
+      "era": "20th Century",
+      "decade": "1900s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1910,
+      "era": "20th Century",
+      "decade": "1910s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1911,
+      "era": "20th Century",
+      "decade": "1910s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1912,
+      "era": "20th Century",
+      "decade": "1910s",
+      "century": "XX",
+      "is_leap": true
+    },
+    {
+      "year": 1913,
+      "era": "20th Century",
+      "decade": "1910s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1914,
+      "era": "20th Century",
+      "decade": "1910s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1915,
+      "era": "20th Century",
+      "decade": "1910s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1916,
+      "era": "20th Century",
+      "decade": "1910s",
+      "century": "XX",
+      "is_leap": true
+    },
+    {
+      "year": 1917,
+      "era": "20th Century",
+      "decade": "1910s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1918,
+      "era": "20th Century",
+      "decade": "1910s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1919,
+      "era": "20th Century",
+      "decade": "1910s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1920,
+      "era": "20th Century",
+      "decade": "1920s",
+      "century": "XX",
+      "is_leap": true
+    },
+    {
+      "year": 1921,
+      "era": "20th Century",
+      "decade": "1920s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1922,
+      "era": "20th Century",
+      "decade": "1920s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1923,
+      "era": "20th Century",
+      "decade": "1920s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1924,
+      "era": "20th Century",
+      "decade": "1920s",
+      "century": "XX",
+      "is_leap": true
+    },
+    {
+      "year": 1925,
+      "era": "20th Century",
+      "decade": "1920s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1926,
+      "era": "20th Century",
+      "decade": "1920s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1927,
+      "era": "20th Century",
+      "decade": "1920s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1928,
+      "era": "20th Century",
+      "decade": "1920s",
+      "century": "XX",
+      "is_leap": true
+    },
+    {
+      "year": 1929,
+      "era": "20th Century",
+      "decade": "1920s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1930,
+      "era": "20th Century",
+      "decade": "1930s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1931,
+      "era": "20th Century",
+      "decade": "1930s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1932,
+      "era": "20th Century",
+      "decade": "1930s",
+      "century": "XX",
+      "is_leap": true
+    },
+    {
+      "year": 1933,
+      "era": "20th Century",
+      "decade": "1930s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1934,
+      "era": "20th Century",
+      "decade": "1930s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1935,
+      "era": "20th Century",
+      "decade": "1930s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1936,
+      "era": "20th Century",
+      "decade": "1930s",
+      "century": "XX",
+      "is_leap": true
+    },
+    {
+      "year": 1937,
+      "era": "20th Century",
+      "decade": "1930s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1938,
+      "era": "20th Century",
+      "decade": "1930s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1939,
+      "era": "20th Century",
+      "decade": "1930s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1940,
+      "era": "20th Century",
+      "decade": "1940s",
+      "century": "XX",
+      "is_leap": true
+    },
+    {
+      "year": 1941,
+      "era": "20th Century",
+      "decade": "1940s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1942,
+      "era": "20th Century",
+      "decade": "1940s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1943,
+      "era": "20th Century",
+      "decade": "1940s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1944,
+      "era": "20th Century",
+      "decade": "1940s",
+      "century": "XX",
+      "is_leap": true
+    },
+    {
+      "year": 1945,
+      "era": "20th Century",
+      "decade": "1940s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1946,
+      "era": "20th Century",
+      "decade": "1940s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1947,
+      "era": "20th Century",
+      "decade": "1940s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1948,
+      "era": "20th Century",
+      "decade": "1940s",
+      "century": "XX",
+      "is_leap": true
+    },
+    {
+      "year": 1949,
+      "era": "20th Century",
+      "decade": "1940s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1950,
+      "era": "20th Century",
+      "decade": "1950s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1951,
+      "era": "20th Century",
+      "decade": "1950s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1952,
+      "era": "20th Century",
+      "decade": "1950s",
+      "century": "XX",
+      "is_leap": true
+    },
+    {
+      "year": 1953,
+      "era": "20th Century",
+      "decade": "1950s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1954,
+      "era": "20th Century",
+      "decade": "1950s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1955,
+      "era": "20th Century",
+      "decade": "1950s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1956,
+      "era": "20th Century",
+      "decade": "1950s",
+      "century": "XX",
+      "is_leap": true
+    },
+    {
+      "year": 1957,
+      "era": "20th Century",
+      "decade": "1950s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1958,
+      "era": "20th Century",
+      "decade": "1950s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1959,
+      "era": "20th Century",
+      "decade": "1950s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1960,
+      "era": "20th Century",
+      "decade": "1960s",
+      "century": "XX",
+      "is_leap": true
+    },
+    {
+      "year": 1961,
+      "era": "20th Century",
+      "decade": "1960s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1962,
+      "era": "20th Century",
+      "decade": "1960s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1963,
+      "era": "20th Century",
+      "decade": "1960s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1964,
+      "era": "20th Century",
+      "decade": "1960s",
+      "century": "XX",
+      "is_leap": true
+    },
+    {
+      "year": 1965,
+      "era": "20th Century",
+      "decade": "1960s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1966,
+      "era": "20th Century",
+      "decade": "1960s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1967,
+      "era": "20th Century",
+      "decade": "1960s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1968,
+      "era": "20th Century",
+      "decade": "1960s",
+      "century": "XX",
+      "is_leap": true
+    },
+    {
+      "year": 1969,
+      "era": "20th Century",
+      "decade": "1960s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1970,
+      "era": "20th Century",
+      "decade": "1970s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1971,
+      "era": "20th Century",
+      "decade": "1970s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1972,
+      "era": "20th Century",
+      "decade": "1970s",
+      "century": "XX",
+      "is_leap": true
+    },
+    {
+      "year": 1973,
+      "era": "20th Century",
+      "decade": "1970s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1974,
+      "era": "20th Century",
+      "decade": "1970s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1975,
+      "era": "20th Century",
+      "decade": "1970s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1976,
+      "era": "20th Century",
+      "decade": "1970s",
+      "century": "XX",
+      "is_leap": true
+    },
+    {
+      "year": 1977,
+      "era": "20th Century",
+      "decade": "1970s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1978,
+      "era": "20th Century",
+      "decade": "1970s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1979,
+      "era": "20th Century",
+      "decade": "1970s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1980,
+      "era": "20th Century",
+      "decade": "1980s",
+      "century": "XX",
+      "is_leap": true
+    },
+    {
+      "year": 1981,
+      "era": "20th Century",
+      "decade": "1980s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1982,
+      "era": "20th Century",
+      "decade": "1980s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1983,
+      "era": "20th Century",
+      "decade": "1980s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1984,
+      "era": "20th Century",
+      "decade": "1980s",
+      "century": "XX",
+      "is_leap": true
+    },
+    {
+      "year": 1985,
+      "era": "20th Century",
+      "decade": "1980s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1986,
+      "era": "20th Century",
+      "decade": "1980s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1987,
+      "era": "20th Century",
+      "decade": "1980s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1988,
+      "era": "20th Century",
+      "decade": "1980s",
+      "century": "XX",
+      "is_leap": true
+    },
+    {
+      "year": 1989,
+      "era": "20th Century",
+      "decade": "1980s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1990,
+      "era": "20th Century",
+      "decade": "1990s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1991,
+      "era": "20th Century",
+      "decade": "1990s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1992,
+      "era": "20th Century",
+      "decade": "1990s",
+      "century": "XX",
+      "is_leap": true
+    },
+    {
+      "year": 1993,
+      "era": "20th Century",
+      "decade": "1990s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1994,
+      "era": "20th Century",
+      "decade": "1990s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1995,
+      "era": "20th Century",
+      "decade": "1990s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1996,
+      "era": "20th Century",
+      "decade": "1990s",
+      "century": "XX",
+      "is_leap": true
+    },
+    {
+      "year": 1997,
+      "era": "20th Century",
+      "decade": "1990s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1998,
+      "era": "20th Century",
+      "decade": "1990s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 1999,
+      "era": "20th Century",
+      "decade": "1990s",
+      "century": "XX",
+      "is_leap": false
+    },
+    {
+      "year": 2000,
+      "era": "21st Century",
+      "decade": "2000s",
+      "century": "XXI",
+      "is_leap": true
+    },
+    {
+      "year": 2001,
+      "era": "21st Century",
+      "decade": "2000s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2002,
+      "era": "21st Century",
+      "decade": "2000s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2003,
+      "era": "21st Century",
+      "decade": "2000s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2004,
+      "era": "21st Century",
+      "decade": "2000s",
+      "century": "XXI",
+      "is_leap": true
+    },
+    {
+      "year": 2005,
+      "era": "21st Century",
+      "decade": "2000s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2006,
+      "era": "21st Century",
+      "decade": "2000s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2007,
+      "era": "21st Century",
+      "decade": "2000s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2008,
+      "era": "21st Century",
+      "decade": "2000s",
+      "century": "XXI",
+      "is_leap": true
+    },
+    {
+      "year": 2009,
+      "era": "21st Century",
+      "decade": "2000s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2010,
+      "era": "21st Century",
+      "decade": "2010s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2011,
+      "era": "21st Century",
+      "decade": "2010s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2012,
+      "era": "21st Century",
+      "decade": "2010s",
+      "century": "XXI",
+      "is_leap": true
+    },
+    {
+      "year": 2013,
+      "era": "21st Century",
+      "decade": "2010s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2014,
+      "era": "21st Century",
+      "decade": "2010s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2015,
+      "era": "21st Century",
+      "decade": "2010s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2016,
+      "era": "21st Century",
+      "decade": "2010s",
+      "century": "XXI",
+      "is_leap": true
+    },
+    {
+      "year": 2017,
+      "era": "21st Century",
+      "decade": "2010s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2018,
+      "era": "21st Century",
+      "decade": "2010s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2019,
+      "era": "21st Century",
+      "decade": "2010s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2020,
+      "era": "21st Century",
+      "decade": "2020s",
+      "century": "XXI",
+      "is_leap": true
+    },
+    {
+      "year": 2021,
+      "era": "21st Century",
+      "decade": "2020s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2022,
+      "era": "21st Century",
+      "decade": "2020s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2023,
+      "era": "21st Century",
+      "decade": "2020s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2024,
+      "era": "21st Century",
+      "decade": "2020s",
+      "century": "XXI",
+      "is_leap": true
+    },
+    {
+      "year": 2025,
+      "era": "21st Century",
+      "decade": "2020s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2026,
+      "era": "21st Century",
+      "decade": "2020s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2027,
+      "era": "21st Century",
+      "decade": "2020s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2028,
+      "era": "21st Century",
+      "decade": "2020s",
+      "century": "XXI",
+      "is_leap": true
+    },
+    {
+      "year": 2029,
+      "era": "21st Century",
+      "decade": "2020s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2030,
+      "era": "21st Century",
+      "decade": "2030s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2031,
+      "era": "21st Century",
+      "decade": "2030s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2032,
+      "era": "21st Century",
+      "decade": "2030s",
+      "century": "XXI",
+      "is_leap": true
+    },
+    {
+      "year": 2033,
+      "era": "21st Century",
+      "decade": "2030s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2034,
+      "era": "21st Century",
+      "decade": "2030s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2035,
+      "era": "21st Century",
+      "decade": "2030s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2036,
+      "era": "21st Century",
+      "decade": "2030s",
+      "century": "XXI",
+      "is_leap": true
+    },
+    {
+      "year": 2037,
+      "era": "21st Century",
+      "decade": "2030s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2038,
+      "era": "21st Century",
+      "decade": "2030s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2039,
+      "era": "21st Century",
+      "decade": "2030s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2040,
+      "era": "21st Century",
+      "decade": "2040s",
+      "century": "XXI",
+      "is_leap": true
+    },
+    {
+      "year": 2041,
+      "era": "21st Century",
+      "decade": "2040s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2042,
+      "era": "21st Century",
+      "decade": "2040s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2043,
+      "era": "21st Century",
+      "decade": "2040s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2044,
+      "era": "21st Century",
+      "decade": "2040s",
+      "century": "XXI",
+      "is_leap": true
+    },
+    {
+      "year": 2045,
+      "era": "21st Century",
+      "decade": "2040s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2046,
+      "era": "21st Century",
+      "decade": "2040s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2047,
+      "era": "21st Century",
+      "decade": "2040s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2048,
+      "era": "21st Century",
+      "decade": "2040s",
+      "century": "XXI",
+      "is_leap": true
+    },
+    {
+      "year": 2049,
+      "era": "21st Century",
+      "decade": "2040s",
+      "century": "XXI",
+      "is_leap": false
+    },
+    {
+      "year": 2050,
+      "era": "21st Century",
+      "decade": "2050s",
+      "century": "XXI",
+      "is_leap": false
+    }
+  ],
+  "metadata": {
+    "start_year": 1900,
+    "end_year": 2050,
+    "total_years": 151,
+    "leap_years_count": 37,
+    "centuries": ["XX", "XXI"],
+    "version": "1.0",
+    "last_updated": "2026-05-31"
+  }
+}
